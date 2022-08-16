@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-%C3%A1vila/)
 
-[📚[Currículo Lattes](http://lattes.cnpq.br/6534635955153101)
+📚[Currículo Lattes](http://lattes.cnpq.br/6534635955153101)
 
 ## Tecnologies
 
