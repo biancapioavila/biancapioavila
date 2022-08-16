@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**biancapioavila/biancapioavila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Agronomic Engineer, PhD and post-doctorate in Food Science and Technology.
+- 🚀 I’m currently learning Power Bi, SQL, Python.
+- 📈Consultant for statistical analysis and scientific articles.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-%C3%A1vila/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[📚[Currículo Lattes] (https://lattes.cnpq.br/)](http://lattes.cnpq.br/6534635955153101)
+
+## Tecnologies
+
+
+<div style="display: inline_block"><br>
+    <img align= "center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align= "center" alt="RStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+    <img align= "center" alt="SPSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg">
+    <img align= "center" alt="Minitab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minitab/minitab-original.svg">
+    <img align= "center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align= "center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+
 -->
