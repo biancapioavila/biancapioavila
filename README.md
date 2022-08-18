@@ -1,6 +1,5 @@
 ## Hi, I'm Bianca 👋
 
-![LINKEDING3](https://user-images.githubusercontent.com/108989486/185509117-13f1b395-a1b9-420c-accf-538feea778d2.jpg)
 
 
 - 🎓 Agronomic Engineer, PhD and post-doctorate in Food Science and Technology.
