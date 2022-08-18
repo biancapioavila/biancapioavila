@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Bianca 👋
+
+
 
 - 🎓 Agronomic Engineer, PhD and post-doctorate in Food Science and Technology.
 - 🚀 I’m currently learning Power Bi, SQL, Python.
