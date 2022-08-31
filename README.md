@@ -25,4 +25,4 @@
 
 
 ## My Projects
-[Aceitação de Consumidores] (https://github.com/biancapioavila/consumer_acceptance)
+![Aceitação de Consumidores](https://github.com/biancapioavila/consumer_acceptance)
