@@ -24,7 +24,6 @@
     <img align= "center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 
 
-
 ## My Projects
 
 [Qualidade de Vinho Tinto](https://github.com/biancapioavila/red_wine_quality)
