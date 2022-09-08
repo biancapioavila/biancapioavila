@@ -27,4 +27,9 @@
 
 ## My Projects
 
-![Aceitação de Consumidores](https://github.com/biancapioavila/consumer_acceptance)
+[Qualidade de Vinho Tinto](https://github.com/biancapioavila/red_wine_quality)
+    
+    
+ ## Authorship of Articles - Consumer Behavior
+    
+   
