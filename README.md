@@ -1,4 +1,4 @@
-## Hi, I'm Bianca 👋
+![Banner](https://github.com/biancapioavila/biancapioavila/blob/main/logo2.JPG)
 
 
 - 🎓 Agronomic Engineer, PhD and post-doctorate in Food Science and Technology.
