@@ -1,7 +1,5 @@
 ## Hi, I'm Bianca 👋
 
-![logo](https://user-images.githubusercontent.com/108989486/185509499-b4018001-c104-495e-a280-1fe1d0bbc551.jpg)
-
 
 - 🎓 Agronomic Engineer, PhD and post-doctorate in Food Science and Technology.
 - 🚀 I’m currently learning Power Bi, SQL, Python.
