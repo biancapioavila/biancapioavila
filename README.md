@@ -25,6 +25,8 @@
 ## My Projects
 
 [Qualidade de Vinho Tinto](https://github.com/biancapioavila/red_wine_quality)
+
+[Problemática do Churn](https://github.com/biancapioavila/Churn-customer-behavior)
     
     
  ## Authorship of Articles - Consumer Behavior
