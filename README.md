@@ -2,7 +2,7 @@
 
 
 - 🎓 Agronomic Engineer, PhD and post-doctorate in Food Science and Technology.
-- 🚀 I’m currently learning Power Bi, SQL, Python.
+- 🚀 I’m currently learning Power Bi, SQL, Python, Big Data.
 - 📈 Consultant for statistical analysis and scientific articles.
 - 📖 Author of books and articles on consumer behavior and sensory branding marketing.
 - 🍃 Leading expert in grain production chain projects.
