@@ -23,12 +23,19 @@
 
 
 ## My Projects
+[Custos Produção Arroz](https://github.com/biancapioavila/Custos_Arroz_CONAB)
+
+[Análise de Componentes Pincipais Arroz tipo exportação](https://github.com/biancapioavila/ACP_Arroz_Exportacao)
 
 [Qualidade de Vinho Tinto](https://github.com/biancapioavila/red_wine_quality)
 
 [Problemática do Churn](https://github.com/biancapioavila/Churn-customer-behavior)
+
+[Análise Fatorial](https://github.com/biancapioavila/Analise_Fatorial_Cereais)
+
+
     
     
- ## Authorship of Articles - Consumer Behavior
+
     
    
