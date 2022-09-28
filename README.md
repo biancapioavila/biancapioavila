@@ -34,7 +34,7 @@
 
 [Análise Fatorial](https://github.com/biancapioavila/Analise_Fatorial_Cereais)
 
-[Análise Exploratória - Covid Brasil]
+[Análise Exploratória - Covid Brasil](https://github.com/biancapioavila/Analise-Exploratoria--Covid_Brasil)
 
 ## Published articles - Resume
 
