@@ -12,6 +12,25 @@
 
 📚[Currículo Lattes](http://lattes.cnpq.br/6534635955153101)
 
+## Courses in Progress
+
+-Big Data Science (Semantix Academy)
+
+-Big Data Foundations (DataAcademy)
+
+-Databases and SQL for Data Science(IBM-Coursera)
+
+-Python for Data Analysis (DataAcademy)
+
+-English and Academic Preparation (Universidade Rice)
+
+-PowerBi for Data Science (DataAcademy)
+
+-Data Processing Using Python (Cousera)
+
+-Machine Learning Python (Udemy)
+
+
 ## Tecnologies
 
 <div style="display: inline_block"><br>
@@ -24,17 +43,17 @@
 
 
 ## My Projects
-[Custos Produção Arroz](https://github.com/biancapioavila/Custos_Arroz_CONAB)
+[Production Cost Analysis](https://github.com/biancapioavila/Custos_Arroz_CONAB)
 
-[Análise de Componentes Pincipais Arroz tipo exportação](https://github.com/biancapioavila/ACP_Arroz_Exportacao)
+[Principal Components Analysis Rice](https://github.com/biancapioavila/ACP_Arroz_Exportacao)
 
-[Qualidade de Vinho Tinto](https://github.com/biancapioavila/red_wine_quality)
+[Red Wine Quality](https://github.com/biancapioavila/red_wine_quality)
 
-[Problemática do Churn](https://github.com/biancapioavila/Churn-customer-behavior)
+[Churn Problem](https://github.com/biancapioavila/Churn-customer-behavior)
 
-[Análise Fatorial](https://github.com/biancapioavila/Analise_Fatorial_Cereais)
+[Factor Analysis](https://github.com/biancapioavila/Analise_Fatorial_Cereais)
 
-[Análise Exploratória - Covid Brasil](https://github.com/biancapioavila/Analise-Exploratoria--Covid_Brasil)
+[EDA - Covid Brazil](https://github.com/biancapioavila/Analise-Exploratoria--Covid_Brasil)
 
 ## Published articles - Resume
 
